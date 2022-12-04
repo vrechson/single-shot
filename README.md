@@ -63,4 +63,4 @@ python3 single-shot.py -l addresses.txt -c 'touch vrechson' -m rce -p https -V
 All current payloads were taken from this [assetnote blogpost](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/).
 
 ### Contributing
-You can contribute openning isses, submitting pull requests or through [!["Buying a coffee for me"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vrechson)
+You can contribute openning issuees, submitting pull requests or you can [!["Buy me a Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vrechson) if you prefer.
