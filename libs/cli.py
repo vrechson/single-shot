@@ -11,6 +11,7 @@ from .singleshoot import Gun
 
 def main():
     args = parse_cmd_line_arguments()
+    _command = ''
 
     if args.mode and args.mode != "canary":
         if not args.command:
